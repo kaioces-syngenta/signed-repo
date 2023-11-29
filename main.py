@@ -1,5 +1,6 @@
 import sys
 
 
-def hello():
-    print('def hello():')
+class World:
+    def hello():
+        print('def hello():')
